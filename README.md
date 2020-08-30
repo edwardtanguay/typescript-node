@@ -1,4 +1,4 @@
-# base-react-001
+# typescript-node
 
 This project allows you to write TypeScript scripts, compile them to JavaScript, and run them with Node.
 

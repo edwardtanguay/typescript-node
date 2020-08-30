@@ -11,8 +11,8 @@
 		"ts-node": "^9.0.0"
 	},
 	"scripts": {
-		"build": "node_modules/.bin/tsc --target ES6 main.ts",
-		"start": "node main.js"
+		"build": "node_modules/.bin/tsc --target ES6 src/main.ts",
+		"start": "node src/main.js"
 	},
 	"keywords": [],
 	"author": "",
